@@ -263,7 +263,7 @@ type AMDDeviceManager struct {
 - 专门针对 NVIDIA GPU 设计，无法支持其他厂商设备
 - 需要为每个容器运行时单独适配
 
-详细请参考：[**NVIDIA Container Toolkit 原理分析与代码深度解析**](https://github.com/ForceInjection/AI-fundermentals/blob/main/k8s/Nvidia%20Container%20Toolkit%20%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
+详细请参考：[**NVIDIA Container Toolkit 原理分析与代码深度解析**](https://github.com/ForceInjection/AI-Fundamentals/blob/main/k8s/Nvidia%20Container%20Toolkit%20%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
 
 **Intel GPU Device Plugin：**
 
@@ -273,7 +273,7 @@ type AMDDeviceManager struct {
 
 #### 1.2.2 Kubernetes Device Plugin 机制
 
-详细请参考：[**Nvidia K8s Device Plugin 原理解析和源码分析**](https://github.com/ForceInjection/AI-fundermentals/blob/main/k8s/nvidia-k8s-device-plugin-analysis.md)
+详细请参考：[**Nvidia K8s Device Plugin 原理解析和源码分析**](https://github.com/ForceInjection/AI-Fundamentals/blob/main/k8s/nvidia-k8s-device-plugin-analysis.md)
 
 **优势：**
 
